@@ -1,9 +1,13 @@
+![License](https://img.shields.io/badge/License-MIT-green)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
+![Learning](https://img.shields.io/badge/Learning-C++-orange)
+
+
 # Mathematical exercises in C++
 
 Questo è un piccolo programma scritto in C++ che permette di eseguire vari esercizi matematici di base.
 
 ## Funzionalità
-
 Il programma include un menù con le seguenti opzioni:
 
 1. Quoziente di una divisione intera
@@ -22,12 +26,13 @@ Il programma include un menù con le seguenti opzioni:
 14. Scomposizione di un numero in cifre
 
 ## Come usare il programma
-
 1. Scarica o clona la repository.
 2. Compila il file `main.cpp` usando un compilatore C++.
 3. Esegui il programma (`./esercizi` su Linux/Mac o `esercizi.exe` su Windows).
 4. Segui le istruzioni del menù.
 
-## Licenza
+## Autore
+Gabriele Henriet - [GitHub](https://github.com/Gabri-dev-C)
 
+## Licenza
 Questo progetto è rilasciato sotto licenza [MIT](https://opensource.org/licenses/MIT).
