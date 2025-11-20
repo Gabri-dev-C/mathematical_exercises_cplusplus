@@ -3,7 +3,7 @@
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
 
-# Mathematical exercises in C++
+# Mathematical exercises
 
 Questo è un piccolo programma scritto in C++ che permette di eseguire vari esercizi matematici di base.
 
