@@ -1,4 +1,4 @@
-# Esercizi Matematici in C++
+# Mathematical exercises in C++
 
 Questo è un piccolo programma scritto in C++ che permette di eseguire vari esercizi matematici di base.
 
